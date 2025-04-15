@@ -30,3 +30,4 @@
 Sorted alphabetically by name.
 
 - [BotBrandon](./bot-brandon)
+- [Drolgurd](./drolgurd)
