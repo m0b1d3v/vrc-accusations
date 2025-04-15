@@ -33,3 +33,4 @@ Sorted alphabetically by name.
 - [Drolgurd](./drolgurd)
 - [Giant Waffle](./giant-waffle)
 - [Koné Labie](./koné-labie)
+- [Ridley](./ridley)
