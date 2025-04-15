@@ -27,8 +27,6 @@
 
 ## Accusations
 
-Sorted by most recent first.
+Sorted alphabetically by name.
 
-| Name | VRC ID |
-|------|--------|
-|      |        |
+- [BotBrandon](./bot-brandon)
